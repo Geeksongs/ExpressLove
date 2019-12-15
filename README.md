@@ -1,3 +1,5 @@
 # ExpressLove
-emmmm,看我博客就好啦，链接如下：https://www.cnblogs.com/geeksongs/p/10723048.html
-后面我也会对这个项目的背景音乐进行补充的
+
+本软件的主要目的是用来表白女朋友,让女朋友开心，效果如下：
+![image](https://github.com/Geeksongs/ExpressLove/blob/master/yanshi.gif)
+
