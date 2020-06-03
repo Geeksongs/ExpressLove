@@ -1,7 +1,6 @@
-# 轻松搞定表白女朋友APP
-# Easily Get to Express Your Girlfriend
+# 轻松搞定表白女朋友APP(Easily Get to Express Your Girlfriend)
 
-## Backgroud:
+## 背景(Backgroud):
 本软件的主要目的是用来表白女朋友，让女朋友开心，欢迎大家修改做出更好的效果，同时也十分欢迎大家star和Pull requests，github开源库链接是：
 https://github.com/Geeksongs/ExpressLove
 
