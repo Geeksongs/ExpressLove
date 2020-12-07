@@ -38,6 +38,7 @@ public class Main3Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main3);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         getSupportActionBar().hide();
+        //匿名内部启动新线程
         new Handler().postDelayed(new Runnable(){ 
             public void run() {
                 String url="weixin://";
