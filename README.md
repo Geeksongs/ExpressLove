@@ -9,7 +9,7 @@ https://github.com/Geeksongs/ExpressLove
 https://www.cnblogs.com/geeksongs/p/10723048.html
 
 
-An Android software used to express love to his girlfriend, currently there are fewer love software based on the Android platform on the Internet, so I open source of it. It mainly integrates Tencent X5 kernel, web and Android native mixed development. Software background dynamics can be changed at any time, supporting high customization and secondary development. Welcome all technical colleagues to download.
+Android software used to express love to his girlfriend, currently there are very few express-love software based on the Android platform on the Internet, so I open source of it. It mainly integrates Tencent X5 kernel, web, and Android native mixed development. Software background can be changed dynamically at any time, supporting high customization and secondary development. I welcome all technical colleagues to download this application to use.
 
 ## 2.软件的效果如下(Demo Video):
 
